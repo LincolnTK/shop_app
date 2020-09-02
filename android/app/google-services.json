@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461715245599",
+    "firebase_url": "https://ecommerce-3230c.firebaseio.com",
+    "project_id": "ecommerce-3230c",
+    "storage_bucket": "ecommerce-3230c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461715245599:android:6e00607eff99be2af5232a",
+        "android_client_info": {
+          "package_name": "shopapp.munlincsystems.co.za"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461715245599-fsih7t2vshg9ve8t7qsue77qu71lpsm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shopapp.munlincsystems.co.za",
+            "certificate_hash": "93785d5d5a9e91af190cedd7e002f636c042ca0c"
+          }
+        },
+        {
+          "client_id": "461715245599-hd4tltqtnffcpuvv51djk4ieqvmhfnjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3m8aJKfUUiFUuFa9_b_SSeyzfsKNwZvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461715245599-hd4tltqtnffcpuvv51djk4ieqvmhfnjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
